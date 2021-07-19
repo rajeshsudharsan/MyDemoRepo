@@ -1,1 +1,2 @@
 This is new master
+This is from User B
